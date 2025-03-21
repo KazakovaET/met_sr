@@ -10,3 +10,4 @@ node_moduls/
 echo /db/*.sqlite3
 /db/*.sqlite3
 doc/**/*.txt
+INFO.md
